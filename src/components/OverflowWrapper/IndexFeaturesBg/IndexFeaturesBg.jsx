@@ -67,22 +67,24 @@ export function IndexFeaturesBg() {
                 <div className="IndexFeatures-about">
                     <p className="isSectionShown" >
                         <span className="IndexFeatures-aboutLine">
-                            From global enterprises to booming
+                            سواء كنت تاجر عالمي أو كنت شركة ناشئة
                         </span>
                         <br />
                         <span className="IndexFeatures-aboutLine">
-                            startups, innovators count on Marqeta.
+                            يمكنك دائما الاعتماد على رزمـــه.
                         </span>
                     </p>
                     <p className="isSectionShown">
-                        Industry leaders across on-demand delivery, expense management,
-                        retail, digital banking, and more use Marqeta to deliver exceptional
-                        customer card experiences that elevate their brands and build
-                        lasting customer loyalty.
+                        حيث تقدم رزمـــه للتاجر خدمة التقسيط للمتسوقين على دفعات مرنة تصل حتى 36 شهر
+                        صفر رسوم على المتسوقين، وتكاليف أقل على التاجر عند تقديم خدمة تقسيط رزمـــه.
+                        إطلاق الخدمة بشكل سريع وسلس مباشرة على موقعك أو في المحل.
+                        مع رزمـــه، يحافظ التاجر على علاقته المباشرة بعملائه من خلال الدفع مباشرة
+                        بدون الحاجة إلى عملية تسجيل أو موافقات مطولة.
+                        متوافقة مع الشريعة الإسلامية ومرخصة من الجهات الحكومية.
                         <a href="https://www.marqeta.com/resources/resource/marqeta-customer-spotlight-square-card" className="homepage-hyperlink">
-                            See how Square
+                            سجل معنا الآن
                         </a>
-                        uses Marqeta.
+                        واطلق خدمة التقسيط المرن مع رزمـــه.
                     </p>
                 </div>
             </div>
