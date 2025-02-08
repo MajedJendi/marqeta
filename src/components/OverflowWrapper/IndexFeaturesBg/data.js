@@ -1,5 +1,10 @@
-export const IndexFeaturesListTitleLine = ['مشتريات بمبالغ كبيرة', 'على فترات طويلة حتى 36 شهر', 'بدون رسوم'];
-export const IndexFeaturesListDescriptionLine = [
+
+export const IndexFeaturesTitle = [
+  "التحديات في الحلول الحالية للتقسيط:",
+  "رسوم مرتفعة ومرونة محدودة"
+];
+
+  export const IndexFeaturesListDescriptionLine = [
   'الحلول التقليدية الحالية التي تدعم عمليات التقسيط',
   'لا تلبي احتياجات المشتريات الكبيرة أو الفترات الطويلة التي تتجاوز 6 أشهر،',
   'أو تكون متاحة بعد إتمام عملية الشراء مما قد يؤدي إلى خسارة المتسوق.',
