@@ -163,7 +163,12 @@ export function HeroSection() {
 
                         {/* Subtitle */}
                         <div id='page-subtitle' ref={pageSubtitleRef} className="IndexHero-subtitle isSectionShown">
-                            Rezma
+                            
+                            صفر رسوم
+                            <br/>
+                            صفر فوائد
+                            <br/>
+                            متوافق مع الشريعة
                         </div>
 
                         {/* Buttons */}
