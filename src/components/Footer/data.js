@@ -1,6 +1,6 @@
-import instagramSVG from '@assets/svg/instagram.svg';
-import twitterSVG from '@assets/svg/twitter.svg';
-import linkedinSVG from '@assets/svg/linkedin.svg';
+// import instagramSVG from '@assets/svg/instagram.svg';
+// import twitterSVG from '@assets/svg/twitter.svg';
+// import linkedinSVG from '@assets/svg/linkedin.svg';
 
 /*
 export const FooterNavigation = [
@@ -269,20 +269,20 @@ export const FooterNavigation = [
 ];
 */
 
-export const FooterSocialIcon = [
-    {
-        link: 'https://www.instagram.com/userezma/',
-        ariaLabel: 'instagram',
-        icon: instagramSVG,
-    },
-    {
-        link: 'https://x.com/UseRezma',
-        ariaLabel: 'X',
-        icon: twitterSVG,
-    },
-    {
-        link: 'https://www.linkedin.com/company/rezma-%D8%B1%D8%B2%D9%85%D9%80%D9%80%D9%80%D9%87/',
-        ariaLabel: 'linkedin',
-        icon: linkedinSVG,
-    },
-];
+// export const FooterSocialIcon = [
+//     {
+//         link: 'https://www.instagram.com/userezma/',
+//         ariaLabel: 'instagram',
+//         icon: instagramSVG,
+//     },
+//     {
+//         link: 'https://x.com/UseRezma',
+//         ariaLabel: 'X',
+//         icon: twitterSVG,
+//     },
+//     {
+//         link: 'https://www.linkedin.com/company/rezma-%D8%B1%D8%B2%D9%85%D9%80%D9%80%D9%80%D9%87/',
+//         ariaLabel: 'linkedin',
+//         icon: linkedinSVG,
+//     },
+// ];
