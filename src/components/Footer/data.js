@@ -280,7 +280,7 @@ export const FooterSocialIcon = [
         icon: twitterSVG,
     },
     {
-        link: 'https://www.linkedin.com/company/marqeta/mycompany/',
+        link: 'https://www.linkedin.com/company/rezma-%D8%B1%D8%B2%D9%85%D9%80%D9%80%D9%80%D9%87/',
         ariaLabel: 'linkedin',
         icon: linkedinSVG,
     },
