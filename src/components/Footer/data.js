@@ -270,13 +270,13 @@ export const FooterNavigation = [
 
 export const FooterSocialIcon = [
     {
-        link: 'https://www.facebook.com/marqetainc/',
-        ariaLabel: 'facebook',
-        icon: facebookSVG,
+        link: 'https://www.instagram.com/userezma/',
+        ariaLabel: 'instagram',
+        icon: instagramSVG,
     },
     {
-        link: 'https://twitter.com/marqeta',
-        ariaLabel: 'twitter',
+        link: 'https://x.com/UseRezma',
+        ariaLabel: 'X',
         icon: twitterSVG,
     },
     {
