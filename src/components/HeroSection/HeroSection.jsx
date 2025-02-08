@@ -163,8 +163,7 @@ export function HeroSection() {
 
                         {/* Subtitle */}
                         <div id='page-subtitle' ref={pageSubtitleRef} className="IndexHero-subtitle isSectionShown">
-                            Integrate end to end credit and payment solutions into your business
-                            processes using our modern card issuing platform.
+                            Rezma
                         </div>
 
                         {/* Buttons */}
