@@ -1,4 +1,4 @@
-export const IndexTailoredTitleLine = ['Create a tailored', 'payment experience'];
+export const IndexTailoredTitleLine = ['صمم خدمة التقسيط', 'التي تجعل من تجربة عميلك الأفضل'];
 
 export const IndexTailoredItem = [
     {
