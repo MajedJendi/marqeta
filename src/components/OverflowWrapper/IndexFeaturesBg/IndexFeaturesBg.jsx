@@ -81,9 +81,9 @@ export function IndexFeaturesBg() {
                         مع رزمـــه يحافظ التاجر على علاقته المباشرة بعملائه من خلال الدفع مباشرة بدون الحاجة إلى عملية تسجيل أو موافقات مطولة
                         متوافقة مع الشريعة الإسلامية ومرخصة من الجهات الحكومية
                         <a href="https://www.marqeta.com/resources/resource/marqeta-customer-spotlight-square-card" className="homepage-hyperlink">
-                            See how Square
+                            سجل معنا الآن
                         </a>
-                        uses Marqeta.
+                         واطلق خدمة التقسيط المرن مع رزمـــه
                     </p>
                 </div>
             </div>
