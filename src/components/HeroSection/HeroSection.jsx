@@ -179,12 +179,12 @@ export function HeroSection() {
                                 aria-label="Contact Sales"
                                 href="/contact-us"
                             >
-                                Contact sales
+                                تواصل معنا الآن
                                 <span className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root" />
                             </a>
                             <a href="/platform/credit" target="_self">
                                 <button className="MuiButton-root MuiButton-outlined">
-                                    Learn more about credit
+                                    تفاصيل أكثر عن رزمـــه
                                 </button>
                             </a>
                         </div>
