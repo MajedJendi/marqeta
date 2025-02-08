@@ -1,2 +1,2 @@
-export const IndexFeaturesListTitleLine = ['Flexible and scalable technology', 'to meet your unique payment', 'needs'];
-export const IndexFeaturesListDescriptionLine = ['Legacy payment solutions are slow, rigid,', 'and lack control. Bring the financial solutions', 'to your customers at the point of need and', 'delight them in a whole new way.'];
+export const IndexFeaturesListTitleLine = ['مشتريات بمبالغ كبيرة', 'على فترات طويلة حتى 36 شهر', 'بدون رسوم'];
+export const IndexFeaturesListDescriptionLine = ['الحلول التقليدية الحالية التي تدعم عمليات التقسيط', 'لا تغطي المبالغ الكبيرة ولا الفترات الطويلة التي تتجاوز 6 أشهر', 'وقد تتوفر برسوم وفوائد عالية', 'أو تتوفر بعد عملية الشراء والتي قد تتسبب بخسارة المتسوق'];
