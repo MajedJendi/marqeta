@@ -147,7 +147,7 @@ export function HeroSection() {
 
                         {/* Title and swapping text */}
                         <h1 className="IndexHero-title isImmediateShow isSectionShown" id="page-title">
-                            <span id="swap-title" ref={swapTitleRef}>The next era of</span>
+                            <span id="swap-title" ref={swapTitleRef}>تقسيم مشترياتك الغالية</span>
                             <span id="swap-container" style={{ height: 65 }}>
                                 <div id="swap-text" className='v-slides' ref={listRef}>
                                     {
