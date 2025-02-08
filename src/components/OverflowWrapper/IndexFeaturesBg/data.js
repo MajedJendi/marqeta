@@ -1,7 +1,7 @@
 
 export const IndexFeaturesTitle = [
-  "التحديات في الحلول الحالية للتقسيط:",
-  "رسوم مرتفعة ومرونة محدودة"
+  'التحديات في الحلول الحالية للتقسيط:',
+  'رسوم مرتفعة ومرونة محدودة'
 ];
 
   export const IndexFeaturesListDescriptionLine = [
