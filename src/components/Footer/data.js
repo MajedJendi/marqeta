@@ -2,6 +2,7 @@ import facebookSVG from '@assets/svg/facebook.svg';
 import twitterSVG from '@assets/svg/twitter.svg';
 import linkedinSVG from '@assets/svg/linkedin.svg';
 
+/*
 export const FooterNavigation = [
     {
         itemName: 'Solutions',
@@ -266,7 +267,7 @@ export const FooterNavigation = [
         ],
     },
 ];
-
+*/
 
 export const FooterSocialIcon = [
     {
