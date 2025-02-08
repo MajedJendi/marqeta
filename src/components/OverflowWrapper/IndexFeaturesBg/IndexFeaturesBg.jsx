@@ -84,6 +84,7 @@ export function IndexFeaturesBg() {
                         <br />
                         <a href="https://www.userezma.com" className="homepage-hyperlink">
                             سجل معنا الآن
+                        <br />
                         </a>
                         واطلق خدمة التقسيط المرن مع رزمـــه.
                     </p>
