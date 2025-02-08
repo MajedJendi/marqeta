@@ -124,6 +124,6 @@ export const IndexFeaturesSequence = [
         ],
         imgSrc: cardsOverlayImg,
         link: 'virtual-cards',
-        title: 'Issue virtual cards',
+        title: 'دفع مباشر بالبطاقة الائتمانية',
     },
 ];
