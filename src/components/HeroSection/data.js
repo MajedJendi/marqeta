@@ -4,7 +4,7 @@ import squareSVG from '@assets/svg/logo-square.svg';
 import doorDashSVG from '@assets/svg/logo-doordash.svg';
 import instaCartSVG from '@assets/svg/logo-instacart.svg';
 
-export const textArray = ['credit', 'payroll', 'lending', 'expense', 'embedded finance'];
+export const textArray = [' ٣٦ شهر' ,'٣ أشهر', '٦ أشهر', '٩ أشهر', '١٢ شهر', '٢٤ شهر'];
 
 export const IndexHeroLogo = [
     {
