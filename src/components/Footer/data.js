@@ -1,4 +1,4 @@
-import facebookSVG from '@assets/svg/facebook.svg';
+import instagramSVG from '@assets/svg/instagram.svg';
 import twitterSVG from '@assets/svg/twitter.svg';
 import linkedinSVG from '@assets/svg/linkedin.svg';
 
