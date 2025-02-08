@@ -10,7 +10,7 @@ gsap.registerPlugin(ScrollTrigger);
 export function IndexFeaturesBg() {
     // GSAP animations
     useGSAP(() => {
-        // Initial animation for smooth transition
+        // Initial animation for smooth transition of the about lines
         gsap.to(".IndexFeatures-aboutLine", {
             transform: 'translateY(0)',
             opacity: 1,
@@ -27,6 +27,8 @@ export function IndexFeaturesBg() {
                 onLeaveBack: self => self.disable(),
             },
         });
+
+        // Animation for the title lines
         gsap.to(".IndexFeatures-list-titleLine", {
             transform: 'translateY(0)',
             opacity: 1,
@@ -43,6 +45,8 @@ export function IndexFeaturesBg() {
                 onLeaveBack: self => self.disable(),
             },
         });
+
+        // Animation for the description lines
         gsap.to(".IndexFeatures-list-descriptionLine", {
             transform: 'translateY(0)',
             opacity: 1,
@@ -65,7 +69,7 @@ export function IndexFeaturesBg() {
         <div className="IndexFeatures-bg">
             <div id="IndexFeatures-about-wrapper" className="IndexFeatures-about-wrapper">
                 <div className="IndexFeatures-about">
-                    <p className="isSectionShown" >
+                    <p className="isSectionShown">
                         <span className="IndexFeatures-aboutLine">
                             سواء كنت تاجر عالمي أو كنت شركة ناشئة
                         </span>
@@ -76,14 +80,18 @@ export function IndexFeaturesBg() {
                     </p>
                     <p className="isSectionShown">
                         حيث تقدم رزمـــه للتاجر خدمة التقسيط للمتسوقين على دفعات مرنة تصل حتى 36 شهر
-                        صفر رسوم على المستوقين، وتكاليف أقل على التاجر عند تقديم خدمة تقسيط رزمـــه
-                        إطلاق الخدمة بشكل سريع وسلس مباشرة على موقعك أو في المحل
-                        مع رزمـــه يحافظ التاجر على علاقته المباشرة بعملائه من خلال الدفع مباشرة بدون الحاجة إلى عملية تسجيل أو موافقات مطولة
-                        متوافقة مع الشريعة الإسلامية ومرخصة من الجهات الحكومية
-                        <a href="https://www.marqeta.com/resources/resource/marqeta-customer-spotlight-square-card" className="homepage-hyperlink">
+                        صفر رسوم على المتسوقين، وتكاليف أقل على التاجر عند تقديم خدمة تقسيط رزمـــه.
+                        إطلاق الخدمة بشكل سريع وسلس مباشرة على موقعك أو في المحل.
+                        مع رزمـــه، يحافظ التاجر على علاقته المباشرة بعملائه من خلال الدفع مباشرة
+                        بدون الحاجة إلى عملية تسجيل أو موافقات مطولة.
+                        متوافقة مع الشريعة الإسلامية ومرخصة من الجهات الحكومية.
+                        <a
+                            href="https://www.marqeta.com/resources/resource/marqeta-customer-spotlight-square-card"
+                            className="homepage-hyperlink"
+                        >
                             سجل معنا الآن
                         </a>
-                         واطلق خدمة التقسيط المرن مع رزمـــه
+                        واطلق خدمة التقسيط المرن مع رزمـــه.
                     </p>
                 </div>
             </div>
@@ -108,5 +116,5 @@ export function IndexFeaturesBg() {
                 </div>
             </div>
         </div>
-    )
+    );
 }
