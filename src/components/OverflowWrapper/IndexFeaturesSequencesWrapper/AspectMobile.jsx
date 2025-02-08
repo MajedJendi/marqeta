@@ -124,12 +124,12 @@ export function AspectMobile() {
                                     <div className="IndexFeatures-Funding-link IndexFeatures-Base-link">
                                         <a href="/platform/jit-funding">
                                             <div className="IndexFeatures-Base-link-title">
-                                                JIT Funding
+                                                قدم خدمة التقسيط في متجرك الإلكتروني
                                             </div>
                                             <div className="IndexFeatures-Base-link-icon">
                                                 <div className="IndexFeatures-Base-link-icon-bg" />
                                                 <div className="IndexFeatures-Base-link-icon-title">
-                                                    Learn more
+                                                    تواصل معنا الآن
                                                 </div>
                                                 <div className="IndexFeatures-Base-link-icon-plus" />
                                             </div>
@@ -194,12 +194,12 @@ export function AspectMobile() {
                                     <div className="IndexFeatures-Controls-link IndexFeatures-Base-link">
                                         <a href="/platform/dynamic-spend-controls">
                                             <div className="IndexFeatures-Base-link-title">
-                                                Dynamic spend controls
+                                                تحكم كامل وشامل بخدمة التقسيط
                                             </div>
                                             <div className="IndexFeatures-Base-link-icon">
                                                 <div className="IndexFeatures-Base-link-icon-bg" />
                                                 <div className="IndexFeatures-Base-link-icon-title">
-                                                    Learn more
+                                                    تواصل معنا الآن
                                                 </div>
                                                 <div className="IndexFeatures-Base-link-icon-plus" />
                                             </div>
@@ -264,12 +264,12 @@ export function AspectMobile() {
                                     <div className="IndexFeatures-Widgets-link IndexFeatures-Base-link">
                                         <a href="/platform/pci-compliant-widgets">
                                             <div className="IndexFeatures-Base-link-title">
-                                                PCI widgets
+                                                لوحة تحكم التاجر لعرض جميع التفاصيل
                                             </div>
                                             <div className="IndexFeatures-Base-link-icon">
                                                 <div className="IndexFeatures-Base-link-icon-bg" />
                                                 <div className="IndexFeatures-Base-link-icon-title">
-                                                    Learn more
+                                                    تواصل معنا الآن
                                                 </div>
                                                 <div className="IndexFeatures-Base-link-icon-plus" />
                                             </div>
@@ -334,12 +334,12 @@ export function AspectMobile() {
                                     <div className="IndexFeatures-Cards-link IndexFeatures-Base-link">
                                         <a href="/platform/virtual-cards">
                                             <div className="IndexFeatures-Base-link-title">
-                                                Issue virtual cards
+                                                دفع فوري بالبطاقة الائتمانية
                                             </div>
                                             <div className="IndexFeatures-Base-link-icon">
                                                 <div className="IndexFeatures-Base-link-icon-bg" />
                                                 <div className="IndexFeatures-Base-link-icon-title">
-                                                    Learn more
+                                                    تواصل معنا الآن
                                                 </div>
                                                 <div className="IndexFeatures-Base-link-icon-plus" />
                                             </div>
