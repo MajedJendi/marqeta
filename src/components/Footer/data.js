@@ -1,8 +1,7 @@
-// import instagramSVG from '@assets/svg/instagram.svg';
-// import twitterSVG from '@assets/svg/twitter.svg';
-// import linkedinSVG from '@assets/svg/linkedin.svg';
+import facebookSVG from '@assets/svg/facebook.svg';
+import twitterSVG from '@assets/svg/twitter.svg';
+import linkedinSVG from '@assets/svg/linkedin.svg';
 
-/*
 export const FooterNavigation = [
     {
         itemName: 'Solutions',
@@ -267,8 +266,25 @@ export const FooterNavigation = [
         ],
     },
 ];
-*/
 
+
+export const FooterSocialIcon = [
+    {
+        link: 'https://www.facebook.com/marqetainc/',
+        ariaLabel: 'facebook',
+        icon: facebookSVG,
+    },
+    {
+        link: 'https://twitter.com/marqeta',
+        ariaLabel: 'twitter',
+        icon: twitterSVG,
+    },
+    {
+        link: 'https://www.linkedin.com/company/marqeta/mycompany/',
+        ariaLabel: 'linkedin',
+        icon: linkedinSVG,
+    },
+];
 // export const FooterSocialIcon = [
 //     {
 //         link: 'https://www.instagram.com/userezma/',
