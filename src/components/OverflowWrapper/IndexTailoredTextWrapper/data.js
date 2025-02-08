@@ -2,19 +2,19 @@ export const IndexTailoredTitleLine = ['صمم خدمة التقسيط', 'الت
 
 export const IndexTailoredItem = [
     {
-        titleLine: ['Craft new card', 'products'],
-        descriptionLine: ['Use open APIs to create new payment', 'products or streamline supplier and', ' workforce payments.'],
+        titleLine: ['اطلق خدمة التقسيط', 'بكل سلاسة وبساطة'],
+        descriptionLine: ['بدون تغيير طريقة دفعك الحالية', 'نستطيع بالتقنية المتقدمة', ' أن نفعل خيار رزمـــه بدون أي تغيير خلال أيام'],
     },
     {
-        titleLine: ['Accelerate time', 'to market'],
-        descriptionLine: ['Leverage existing relationships with', 'issuing banks, networks, and card', 'fulfillment providers to go live in days', 'not months.'],
+        titleLine: ['موافقات أعلى للتقسيط', 'ومخاطر أقل'],
+        descriptionLine: ['حيث تتم الموافقة الفورية للعميل', 'خلال عملية الدفع مباشرة', 'مما يرفع من العمليات الناجحة بأمان', 'وتقليل المخاطر'],
     },
     {
-        titleLine: ['Trust'],
-        descriptionLine: ['Detect fraud, control your spend, and', 'ensure the highest levels of', 'compliance and uptime.'],
+        titleLine: ['ثقة عالية'],
+        descriptionLine: ['استفد من العلاقات القائمة مع', 'البنوك المصدرة والشبكات (ماستركارد وفيزا)', 'ومقدمي خدمات البطاقات وبوابات الدفع'],
     },
     {
-        titleLine: ['Scale globally'],
-        descriptionLine: ['Easily expand across the United', 'States, Europe, and Asia with our', 'global-ready platform.'],
+        titleLine: ['وصول عالمي'],
+        descriptionLine: ['رزمـــه تمكن العملاء من أنحاء العالم', ' من الاستفادة من خدمة التقسيط', 'للجميع من سائحين وقادمين جدد', 'ما دام تتوفر معهم بطاقة ائتمانية بكل سهولة'],
     },
 ];
