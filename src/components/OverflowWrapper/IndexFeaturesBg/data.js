@@ -1,14 +1,2 @@
-
-export const IndexFeaturesTitle = [
-  'التحديات في الحلول الحالية للتقسيط:',
-  'رسوم مرتفعة ومرونة محدودة'
-];
-
-  export const IndexFeaturesListDescriptionLine = [
-  'الحلول التقليدية الحالية التي تدعم عمليات التقسيط',
-  'لا تلبي احتياجات المشتريات الكبيرة أو الفترات الطويلة التي تتجاوز 6 أشهر،',
-  'أو تكون متاحة بعد إتمام عملية الشراء مما قد يؤدي إلى خسارة المتسوق.',
-  'كما أنها قد تتضمن رسومًا وفوائد مرتفعة على التاجر أو المتسوق',
-  'كل ذلك يصاحبه فرض رسوم مرتفعة على التاجر',
-  'دون أن توفر المرونة الكافية لتصميم رحلة تسوق متكاملة، تضمن رضا المتسوق وولاءه بالتاجر ومنتجاته'
-];
+export const IndexFeaturesListTitleLine = ['Flexible and scalable technology', 'to meet your unique payment', 'needs'];
+export const IndexFeaturesListDescriptionLine = ['Legacy payment solutions are slow, rigid,', 'and lack control. Bring the financial solutions', 'to your customers at the point of need and', 'delight them in a whole new way.'];
