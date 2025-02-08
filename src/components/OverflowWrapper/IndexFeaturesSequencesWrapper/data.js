@@ -43,7 +43,7 @@ export const IndexFeaturesSequence = [
         ],
         imgSrc: fundingOverlayImg,
         link: 'jit-funding',
-        title: 'JIT Funding',
+        title: 'قدم خدمة التقسيط في متجرك الإلكتروني',
     },
     {
         dataTp: 'controls',
@@ -70,7 +70,7 @@ export const IndexFeaturesSequence = [
         ],
         imgSrc: controlsOverlayImg,
         link: 'dynamic-spend-controls',
-        title: 'Dynamic spend controls',
+        title: 'تحكم كامل وشامل بخدمة التقسيط',
     },
     {
         dataTp: 'widgets',
@@ -97,7 +97,7 @@ export const IndexFeaturesSequence = [
         ],
         imgSrc: widgetsOverlayImg,
         link: 'pci-compliant-widgets',
-        title: 'PCI widgets',
+        title: 'لوحة تحكم التاجر لعرض جميع التفاصيل',
     },
     {
         dataTp: 'cards',
