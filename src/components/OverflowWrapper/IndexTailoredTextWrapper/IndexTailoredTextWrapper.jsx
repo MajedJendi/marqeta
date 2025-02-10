@@ -43,13 +43,6 @@ export function IndexTailoredTextWrapper() {
                         const { titleLine, descriptionLine } = item;
                         return (
                             <div key={index} className="IndexTailored-item isActive">
-                                <div className="IndexTailored-itemTitle">
-                                    {
-                                        titleLine.map((text, index) => (
-                                            <span key={index} className="IndexTailored-itemTitleLine IndexTailored-text">{text}</span>
-                                        ))
-                                    }
-                                </div>
                                 <div className="IndexTailored-itemDescription">
                                     {
                                         descriptionLine.map((text, index) => (
@@ -57,6 +50,15 @@ export function IndexTailoredTextWrapper() {
                                         ))
                                     }
                                 </div>
+                                
+                                <div className="IndexTailored-itemTitle">
+                                    {
+                                        titleLine.map((text, index) => (
+                                            <span key={index} className="IndexTailored-itemTitleLine IndexTailored-text">{text}</span>
+                                        ))
+                                    }
+                                </div>
+
                             </div>
                         )
                     })
