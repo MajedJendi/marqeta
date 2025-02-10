@@ -27,6 +27,7 @@ a {
 .IndexFeatures-about-wrapper {
     position: relative;
     margin: 0 auto;
+    text-align: right;
 }
 
 @media (min-width: 1920px) {
