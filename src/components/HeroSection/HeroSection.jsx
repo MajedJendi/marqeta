@@ -238,7 +238,7 @@ export function HeroSection() {
                                 srcSet={`${topPhoto}?width=3840 3840w, ${topPhoto}?width=3520 3520w, ${topPhoto}?width=3200 3200w, ${topPhoto}?width=2880 2880w, ${topPhoto}?width=2560 2560w, ${topPhoto}?width=2240 2240w, ${topPhoto}?width=1920 1920w, ${topPhoto}?width=1600 1600w, ${topPhoto}?width=1440 1440w, ${topPhoto}?width=1280 1280w, ${topPhoto}?width=960 960w, ${topPhoto}?width=1280 640w`}
                                 sizes="(max-width: 3840x) 3840px, (max-width: 3520x) 3520px, (max-width: 3200x) 3200px, (max-width: 2880x) 2880px, (max-width: 2560x) 2560px, (max-width: 2240x) 2240px, (max-width: 1920x) 1920px, (max-width: 1600x) 1600px, (max-width: 1440x) 1440px, (max-width: 1280x) 1280px, (max-width: 960x) 960px, (max-width: 640x) 1280px"
                                 loading="eager"
-                                style={{ width: "100%" }}
+                                style={{ width: "100%", borderRadius: "10px" }}
                             />
                         </div>
 
