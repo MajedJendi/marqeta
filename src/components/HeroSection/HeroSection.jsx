@@ -4,7 +4,7 @@ import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/all";
 import '@dotlottie/player-component';
 import './heroSection-style.css';
-import topPhoto from '@assets/Hero.png';
+import topPhoto from '@assets/Hero.jpg';
 import topUILottie from '@assets/top-ui.lottie';
 import topUIMobileLottie from '@assets/top-ui-mobile-2.lottie';
 import symbolSVG from '@assets/svg/symbol/svg/sprite.symbol.svg';
