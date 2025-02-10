@@ -700,6 +700,7 @@ a {
     transition: opacity 0.33333333s 0.18s, -webkit-transform 0.33333333s 0.18s;
     transition: opacity 0.33333333s 0.18s, transform 0.33333333s 0.18s;
     transition: opacity 0.33333333s 0.18s, transform 0.33333333s 0.18s, -webkit-transform 0.33333333s 0.18s;
+    text-align: right;
 }
 
 @media (min-width: 1200px) {
