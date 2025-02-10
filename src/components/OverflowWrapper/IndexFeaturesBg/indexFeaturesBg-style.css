@@ -133,6 +133,7 @@ a {
     font-family: Graphik, Helvetiva, sans-serif;
     font-weight: 500;
     color: #2a206a;
+    text-align: right;
 }
 
 @media (min-width: 1440px) {
@@ -197,6 +198,7 @@ a {
     position: relative;
     margin: 0 auto;
     z-index: 1;
+    text-align: right;
 }
 
 @media (min-width: 1920px) {
@@ -244,6 +246,7 @@ a {
     font-family: Graphik, Helvetiva, sans-serif;
     color: #2a206a;
     font-weight: 400;
+    text-align: right;
 }
 
 @media (min-width: 1440px) {
