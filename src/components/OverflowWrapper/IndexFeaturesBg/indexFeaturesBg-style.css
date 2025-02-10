@@ -341,6 +341,7 @@ a {
 .IndexFeatures-list-description {
     font-family: Graphik, Helvetiva, sans-serif;
     color: #4d4476;
+    text-align: right;
 }
 
 @media (min-width: 1440px) {
