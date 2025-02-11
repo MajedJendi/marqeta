@@ -16,7 +16,7 @@ export const HeaderLogo = [
     },
 ];
 
-export const HeaderNavigationItem = ['Platform', 'Solutions', 'Developers', 'Resources', 'Company'];
+export const HeaderNavigationItem = ['التاجر', 'المتسوق', 'لماذا رزمـــه', 'من نحن'];
 
 export const HeaderMobileMenuIcon = [
     {
