@@ -18,7 +18,7 @@ export function Header() {
                                         src={src}
                                         className={`${className}-ArtDirectedImage-root-Media-root-Media-lRMediaComp-Header-logo`}
                                         loading="eager"
-                                        height="60"
+                                        height="15"
                                         alt="logo.svg"
                                         sizes="100vw"
                                     />
