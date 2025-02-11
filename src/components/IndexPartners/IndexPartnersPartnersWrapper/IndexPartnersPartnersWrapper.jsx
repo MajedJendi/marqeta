@@ -132,16 +132,16 @@ export function IndexPartnersPartnersWrapper() {
             <div className="IndexPartners-partnersBlockHead isSectionShown">
                 <h2 className="IndexPartners-partnersBlockHeadTitle">
                     <span className="IndexPartners-partnersBlockHeadTitleLine">
-                        We are your
+                        نحن شركاء النجاح
                     </span>
                     <br />
                     <span className="IndexPartners-partnersBlockHeadTitleLine">
-                        trusted partner
+                        حيث نمكن التاجر من صنع تجربة دفع مميزة
                     </span>
                 </h2>
                 <div className="IndexPartners-partnersBlockHeadDescr">
-                    Our team of experts provide guidance from setup to launch & scale.
-                    Making you successful is our priority.
+                    فريقنا ذو خبرات عالمية سوف يساعد في إطلاق الخدمة وتمكينها على نطاق واسع
+                    وهدفنا هو نجاحك
                 </div>
                 <div className="IndexPartners-partnersBlockHeadTestimonials">
                     {
@@ -185,9 +185,6 @@ export function IndexPartnersPartnersWrapper() {
                         <img data-lazy="true" data-src={affirmImg} alt="Partners-Affirm" src={affirmImg} />
                     </div>
                     <div className="IndexPartners-partnersBlockDescr">
-                        “Affirm’s mission is to build innovative products that people love, and
-                        Marqeta’s unique technology provides us the platform and services to
-                        help make that possible.”
                     </div>
                     <div className="IndexPartners-partnersBlockTestimonials">
                         <div className="IndexPartners-partnersBlockTestimonialsIcon">
@@ -208,11 +205,6 @@ export function IndexPartnersPartnersWrapper() {
                         <img data-lazy="true" data-src={WesternUnionImg} alt="Partners-Doordash" src={WesternUnionImg} />
                     </div>
                     <div className="IndexPartners-partnersBlockDescr">
-                        “We have seen Marqeta be the trusted advisor for us on not just issuing
-                        the card, but doing the card processing and the card management.
-                        Compared to other platforms that required us to do large-scale coding,
-                        required us to take well over six months to a year to go to market,
-                        Marqeta helped us do that in less than six months.”
                     </div>
                     <div className="IndexPartners-partnersBlockTestimonials">
                         <div className="IndexPartners-partnersBlockTestimonialsIcon">
