@@ -84,7 +84,7 @@ export function IndexResults() {
                             }
                         </div>
                         <div className="IndexResults-cardsText isSectionShown">
-                            volume processed in 2022
+                            مبلغ العمليات المنفذة في السعودية على البطاقات الائتمانية
                         </div>
                     </div>
                     <div className="IndexResults-facts isSectionShown">
