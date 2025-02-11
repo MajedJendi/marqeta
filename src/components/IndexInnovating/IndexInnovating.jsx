@@ -73,10 +73,7 @@ export function IndexInnovating() {
                         </span>
                         <br />
                         <span className="IndexInnovating-titleLine">
-                            عميل راضي، ورسوم أقل
-                             <br />
-                        <span className="IndexInnovating-titleLine">
-                            مع رزمـــه
+                            عميل راضي، ورسوم أقل مع رزمـــه
                         </span>
                     </h2>
                     <div className="IndexInnovating-description isSectionShown">
