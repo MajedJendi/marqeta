@@ -43,7 +43,7 @@ export function Header() {
                     {/* Action Buttons */}
                     <div className="Header-actionsContainer">
                         <a className="MuiTypography-root MuiTypography-link MuiLink-root MuiLink-underlineAlways css-ib1rxp-MuiTypography-root-MuiLink-root-Link-root" href="https://app.marqeta.com" target="_self" rel="noopener noreferrer">Sign in</a>
-                        <a className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButtonBase-root css-1gbd66w-MuiButtonBase-root-MuiButton-root-Link-root" target="_self" href="/contact-us">Contact us</a>
+                        <a className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButtonBase-root css-1gbd66w-MuiButtonBase-root-MuiButton-root-Link-root" target="_self" href="/contact-us">تواصل معنا الآن</a>
                     </div>
 
                     {/* Mobile Menu Icon */}
