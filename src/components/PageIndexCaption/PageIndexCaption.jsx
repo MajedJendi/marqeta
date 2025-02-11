@@ -5,12 +5,11 @@ export function PageIndexCaption() {
         <div className="PageIndex-caption">
             <div className="PageIndex-captionWrapper">
                 <div className="PageIndex-captionText">
-                    *When consolidating purchase volume processed through Marqeta’s platform
-                    in 2019. Includes prepaid.
+                    *الأرقام في الموقع من مصادر مختلفة محلية وعالمية
                 </div>
                 <div className="PageIndex-captionText">
                     <a href="https://clay.global/" style={{ color: "inherit" }}>
-                        Designed in partnership with Clay
+                        ننطلق بحب من المملكة العربية السعودية
                     </a>
                 </div>
             </div>
