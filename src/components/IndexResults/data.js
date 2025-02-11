@@ -1,17 +1,17 @@
-export const IndexResultsTitleWord = ['The results speak for', 'themselves'];
-export const IndexResultsCardsCount = ['160', '.000', '.000', '.000', '+'];
+export const IndexResultsTitleWord = ['فرصة النمو الضخمة', 'وإسعاد عملائك اللامحدود'];
+export const IndexResultsCardsCount = ['25', '.000', '.000', '.000', '+'];
 export const IndexResultsFact = [
     {
-        number: '99.99%',
-        text: 'platform uptime in 2022'
+        number: '50%-75%',
+        text: 'أقل رسوم على التاجر، ويزيد الربحية مع مبيعات أكثر'
     },
     {
-        number: '40',
-        text: 'countries certified to operate'
+        number: '60%',
+        text: 'يفضلون عملية التقسيط من بطاقاتهم الائتمانية مباشرة'
     },
     {
-        number: '80X',
-        text: 'growth in volume since 2017'
+        number: '75%',
+        text: 'من العملاء يطلبون أكثر من 4 دفعات للمشتريات الكبيرة +3750 ريال'
     },
 ];
-export const IndexResultsCard = ['uber', 'square', 'instacart', 'brex', 'doordash'];
+export const IndexResultsCard = ['ماستركارد', 'square', 'instacart', 'brex', 'doordash'];
