@@ -36,7 +36,7 @@ export function Footer() {
                 <div className="MuiBox-root css-1xk8vpk-Footer-disclaimerSection">
                     <div className="MuiBox-root css-1xw2nn5-Text-root-Footer-text">
                         <p className="MuiTypography-root MuiTypography-body1 css-15a0tfk-MuiTypography-root">
-                            © 2024 Marqeta, Inc. 180 Grand Avenue, 6th Floor, Oakland, CA 94612
+                            © 2025 Rezma, Inc. جميع الحقوق محفوظة شركة رزمه 2025
                         </p>
                     </div>
                     <div className="MuiBox-root css-fx6pik-Footer-socialWrapper">
