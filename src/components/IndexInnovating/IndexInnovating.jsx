@@ -69,18 +69,21 @@ export function IndexInnovating() {
                 <div className="IndexInnovating-titleWrapper">
                     <h2 className="IndexInnovating-title isSectionShown" style={{ opacity: 1 }}>
                         <span className="IndexInnovating-titleLine">
-                            Start innovating
+                            ابدأ معنا ووفر التقسيط، وبيع أكثر
                         </span>
                         <br />
                         <span className="IndexInnovating-titleLine">
-                            with Marqeta today
+                            عميل راضي، ورسوم أقل
+                             <br />
+                        <span className="IndexInnovating-titleLine">
+                            مع رزمـــه
                         </span>
                     </h2>
                     <div className="IndexInnovating-description isSectionShown">
-                        Let’s talk about your use case and how we can help.
+                        دعونا نتحدث عن متطلباتك وكيف يمكننا تقديم الحل الأمثل لك
                     </div>
                     <a href="/contact-us" className="IndexInnovating-button isSectionShown">
-                        Contact us
+                        تواصل معنا الآن
                     </a>
                 </div>
                 <div className="IndexInnovating-phoneWrapper">
