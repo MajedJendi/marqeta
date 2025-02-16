@@ -88,6 +88,21 @@ export function IndexResults() {
                         </div>
                     </div>
 
+                    <div className="IndexResults-facts isSectionShown">
+                        {
+                            IndexResultsFact.map((item, index) => {
+                                const { number, text } = item;
+                                return (
+                                    <div key={index} className="IndexResults-fact">
+                                        <div className="IndexResults-factTitle">{number}</div>
+                                        <div className="IndexResults-factDescription">
+                                            {text}
+                                        </div>
+                                    </div>
+                                )
+                            })
+                        }
+                    </div>
 
                 </div>
             </div>
