@@ -43,6 +43,7 @@
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
     width: 450px;
+    text-align:right;
 }
 
 @media (min-width: 1024px) and (max-width: 1439px) {
