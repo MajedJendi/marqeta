@@ -20,19 +20,7 @@ export function Footer() {
     return (
         <footer className="MuiBox-root css-11vsetz-Footer-root">
             <div className="MuiContainer-root MuiContainer-maxWidth1044px css-1a8q0rv-MuiContainer-root">
-                <div className="MuiBox-root css-ixftv8-Footer-navigation">
-                    {
-                        isDesktop ? <NavigationDesktop /> : <NavigationMobile />
-                    }
-                    <div className="MuiBox-root css-0">
-                        <div className="MuiBox-root css-1ah1pet-NavigationItem-root">
-                            {
-                                isDesktop ? <LocalSwitcherDesktop /> : <LocalSwitcherMobile />
-                            }
-                        </div>
-                    </div>
-                </div>
-                <hr className="MuiDivider-root MuiDivider-fullWidth css-y481p3-MuiDivider-root-Footer-divider" />
+   
                 <div className="MuiBox-root css-1xk8vpk-Footer-disclaimerSection">
                     <div className="MuiBox-root css-1xw2nn5-Text-root-Footer-text">
                         <p className="MuiTypography-root MuiTypography-body1 css-15a0tfk-MuiTypography-root">
