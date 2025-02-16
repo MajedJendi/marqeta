@@ -69,7 +69,7 @@ export function IndexInnovating() {
                 <div className="IndexInnovating-titleWrapper">
                     <h2 className="IndexInnovating-title isSectionShown" style={{ opacity: 1 }}>
                         <span className="IndexInnovating-titleLine">
-                            ابدأ معنا ووفر التقسيط، وبيع أكثر
+                            ابدأ معنا و وفر التقسيط، وبيع أكثر
                         </span>
                         <br />
                         <span className="IndexInnovating-titleLine">
