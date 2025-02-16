@@ -87,25 +87,8 @@ export function IndexResults() {
                             مبلغ العمليات المنفذة في السعودية على البطاقات الائتمانية
                         </div>
                     </div>
-                    <div className="IndexResults-facts isSectionShown">
-                        {
-                            IndexResultsFact.map((item, index) => {
-                                const { number, text } = item;
-                                return (
-                                    <div key={index} className="IndexResults-fact">
-                                        <div className="IndexResults-factTitle">{number}</div>
-                                        <div className="IndexResults-factDescription">
-                                            {text}
-                                        </div>
-                                    </div>
-                                )
-                            })
-                        }
-                    </div>
-                    <div className="IndexResults-bestPlace">
-                        <img src={AwardsUpdate} className="desktop" alt="Awards received: Forbes, Fast Company, CNBC" />
-                        <img src={AwardsUpdateMobile} className="mobile" alt="Awards received: Forbes, Fast Company, CNBC" />
-                    </div>
+
+
                 </div>
             </div>
             <div className="IndexResults-canvas">
