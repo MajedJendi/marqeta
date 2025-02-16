@@ -180,46 +180,7 @@ export function IndexPartnersPartnersWrapper() {
                         ))
                     }
                 </div>
-                <div className="IndexPartners-partnersBlock IndexPartners-partnersBlock--0 IndexPartners-slide isSectionShown">
-                    <div className="IndexPartners-partnersBlockLogo">
-                        <img data-lazy="true" data-src={affirmImg} alt="Partners-Affirm" src={affirmImg} />
-                    </div>
-                    <div className="IndexPartners-partnersBlockDescr">
-                    </div>
-                    <div className="IndexPartners-partnersBlockTestimonials">
-                        <div className="IndexPartners-partnersBlockTestimonialsIcon">
-                            <img data-lazy="true" data-src={peopleImg} alt="Partners people" src={peopleImg} />
-                        </div>
-                        <div className="IndexPartners-partnersBlockTestimonialsText">
-                            <div className="IndexPartners-partnersBlockTestimonialsTextName">
-                                Max Levchin
-                            </div>
-                            <div className="IndexPartners-partnersBlockTestimonialsTextPosition">
-                                CEO of Affirm
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div className="IndexPartners-partnersBlock IndexPartners-partnersBlock--1 IndexPartners-slide isSectionShown">
-                    <div className="IndexPartners-partnersBlockLogo">
-                        <img data-lazy="true" data-src={WesternUnionImg} alt="Partners-Doordash" src={WesternUnionImg} />
-                    </div>
-                    <div className="IndexPartners-partnersBlockDescr">
-                    </div>
-                    <div className="IndexPartners-partnersBlockTestimonials">
-                        <div className="IndexPartners-partnersBlockTestimonialsIcon">
-                            <img data-lazy="true" data-src={TomMazzaferroImg} alt="Mike Kim photo" src={TomMazzaferroImg} />
-                        </div>
-                        <div className="IndexPartners-partnersBlockTestimonialsText">
-                            <div className="IndexPartners-partnersBlockTestimonialsTextName">
-                                Tom Mazzaferro
-                            </div>
-                            <div className="IndexPartners-partnersBlockTestimonialsTextPosition">
-                                Chief Data and Innovation Officer, Western Union
-                            </div>
-                        </div>
-                    </div>
-                </div>
+              
             </div>
         </div>
     )
