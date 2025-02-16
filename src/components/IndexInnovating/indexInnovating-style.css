@@ -33,6 +33,7 @@ a {
     max-width: 1440px;
     margin: 0 auto;
     padding-left: 180px;
+    text-align: right;
 }
 
 @media (min-width: 1024px) and (max-width: 1439px) {
