@@ -107,43 +107,8 @@ export function IndexResults() {
                 </div>
             </div>
             <div className="IndexResults-canvas">
-                <canvas width="1898.75" height={2990} style={{ height: 2392 }} />
-                <div className="IndexResults-card" data-tp="placeholder">
-                    <div className="IndexResults-card-inner">
-                        <div className="IndexResults-card-inner-container" style={{ height: "2435.18px" }}>
-                            <div className="IndexResults-card-inner-container-block"
-                                style={{
-                                    width: 770,
-                                    height: 770,
-                                    marginLeft: "-245.237px",
-                                    top: 20
-                                }}
-                            >
-                                <div className="IndexResultsCard">
-                                    <canvas
-                                        width={383}
-                                        height={608}
-                                        style={{
-                                            width: 307,
-                                            height: 487,
-                                            marginLeft: "231.5px",
-                                            marginTop: "141.5px",
-                                            opacity: 1,
-                                            transform: "translate3d(9.98929px, 105.829px, 0px)"
-                                        }}
-                                    />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {
-                    IndexResultsCard.map((item, index) => (
-                        <div key={index} className="IndexResults-card" data-tp={item}>
-                            <div className="IndexResults-card-logo" />
-                        </div>
-                    ))
-                }
+                <canvas width="1898.75" height={2990} style={{ height: 500 }} />
+
                 <div className="IndexResults-mobile-card">
                     <div className="IndexResults-mobile-card-inner" />
                 </div>
