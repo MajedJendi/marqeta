@@ -170,19 +170,20 @@ export function IndexPartnersPartnersWrapper() {
                 <div className="IndexPartners-partnersBlockHeadTestimonials IndexPartners-partnersBlockHeadTestimonials--mobile IndexPartners-slide isActive isSectionShown">
                     {
                         IndexPartnersPartnersBlockHeadTestimonialsItem.map((text, index) => (
-                            <div key={index} className="IndexPartners-partnersBlockHeadTestimonialsItem">
+                            <div key={index} >
 
                                 <div className="IndexPartners-partnersBlockHeadTestimonialsItemText">
-                                   
+                                     {text}
                                 </div>
 
-                                 {text}
+                               
                                 
-                                <div className="IndexPartners-partnersBlockHeadTestimonialsItemIcon">
+                            {/*   <div className="IndexPartners-partnersBlockHeadTestimonialsItemIcon">
                                     <svg className="svg svg--icon-partners-item ">
                                         <use xlinkHref={`${symbolSVG}#icon-partners-item`} />
                                     </svg>
-                                </div>
+                                </div> 
+                            */}
                                 
                             </div>
                         ))
