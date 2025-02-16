@@ -173,8 +173,10 @@ export function IndexPartnersPartnersWrapper() {
                             <div key={index} className="IndexPartners-partnersBlockHeadTestimonialsItem">
 
                                 <div className="IndexPartners-partnersBlockHeadTestimonialsItemText">
-                                    {text}
+                                   
                                 </div>
+
+                                 {text}
                                 
                                 <div className="IndexPartners-partnersBlockHeadTestimonialsItemIcon">
                                     <svg className="svg svg--icon-partners-item ">
