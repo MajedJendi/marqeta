@@ -147,14 +147,17 @@ export function IndexPartnersPartnersWrapper() {
                     {
                         IndexPartnersPartnersBlockHeadTestimonialsItem.map((text, index) => (
                             <div key={index} className="IndexPartners-partnersBlockHeadTestimonialsItem">
+
+                                <div className="IndexPartners-partnersBlockHeadTestimonialsItemText">
+                                    {text}
+                                </div>
+                                
                                 <div className="IndexPartners-partnersBlockHeadTestimonialsItemIcon">
                                     <svg className="svg svg--icon-partners-item ">
                                         <use xlinkHref={`${symbolSVG}#icon-partners-item`} />
                                     </svg>
                                 </div>
-                                <div className="IndexPartners-partnersBlockHeadTestimonialsItemText">
-                                    {text}
-                                </div>
+                                
                             </div>
                         ))
                     }
