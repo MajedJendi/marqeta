@@ -107,7 +107,7 @@ export function IndexResults() {
                 </div>
             </div>
             <div className="IndexResults-canvas">
-                <canvas width="1898.75" height={2990} style={{ height: 500 }} />
+                <canvas width="1898.75" height={2990} style={{ height: 2000 }} />
 
                 <div className="IndexResults-mobile-card">
                     <div className="IndexResults-mobile-card-inner" />
