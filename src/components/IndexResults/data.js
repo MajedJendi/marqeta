@@ -1,4 +1,4 @@
-export const IndexResultsTitleWord = ['فرصة النمو الضخمة', 'وإسعاد عملائك اللامحدود'];
+export const IndexResultsTitleWord = [' فرصة النمو الضخمة', 'وإسعاد عملائك اللامحدود'];
 export const IndexResultsCardsCount = ['25', '.000', '.000', '.000', '+'];
 export const IndexResultsFact = [
     {
