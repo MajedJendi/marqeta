@@ -103,6 +103,7 @@
     width: 100%;
     border-top: 1px solid #3C33B2;
     padding: 50px 0px;
+    min-width: 1600px;
 }
 
 @media (min-width:1240px) {
