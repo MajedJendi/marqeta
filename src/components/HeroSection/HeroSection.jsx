@@ -14,6 +14,9 @@ import { DesktopGrid, HomepageDesktopGrid } from './DesktopGrid';
 import { HomepageMobileGrid, MobileGrid } from './MobileGrid';
 import { LaptopBreakPoint, TabletBreakPoint, MobileBreakPoint } from '@/constants';
 
+import { Link } from "react-router-dom";
+
+
 // Register GSAP plugins
 gsap.registerPlugin(ScrollTrigger);
 
