@@ -8,3 +8,4 @@ export { IndexPartners } from "./IndexPartners/IndexPartners";
 export { IndexInnovating } from "./IndexInnovating/IndexInnovating";
 export { PageIndexCaption } from "./PageIndexCaption/PageIndexCaption";
 export { Footer } from "./Footer/Footer";
+export { ContactForm } from "./ContactForm/ContactForm";
