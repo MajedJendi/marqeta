@@ -173,15 +173,10 @@ export function HeroSection() {
 
                         {/* Buttons */}
                         <div id='page-button' ref={pageButtonRef} className="IndexHero-textButton IndexHero-ctas isSectionShown">
-                            <a
-                                className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButtonBase-root css-1gbd66w-MuiButtonBase-root-MuiButton-root-Link-root"
-                                target="_self"
-                                aria-label="Contact Sales"
-                                href="/contact-us"
-                            >
+                            <Link to="/contact-us" className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-disableElevation MuiButtonBase-root css-1gbd66w-MuiButtonBase-root-MuiButton-root-Link-root">
                                 تواصل معنا الآن
-                                <span className="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root" />
-                            </a>
+                            </Link>
+                         
                             <a href="/platform/credit" target="_self">
                                 <button className="MuiButton-root MuiButton-outlined">
                                     تفاصيل أكثر عن رزمـــه
