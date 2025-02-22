@@ -113,8 +113,9 @@ export function ContactForm() {
                         <div className="rs-select2 js-select-simple select--no-search">
                             <select className="form-control" name="Yearly_Sales" style={{textAlign:"right"}} required>
                                 <option disabled="disabled" selected="selected">اختر</option>
-                                <option>من ٠ ل٢٠٠٠٠</option>
-                                <option>من ٠ ل٥٠٠٠٠</option>
+                                <option>أقل من ١٠٠ ألف ريال</option>
+                                <option>من ١٠٠ ألف إلى ٣٧٥ ألف ريال</option>
+                                <option>من ٣٧٥ ألف إلى مليون ريال</option>
                                 <option>أكثر من مليون ريال</option>
                             </select>
                             <div className="select-dropdown"></div>
