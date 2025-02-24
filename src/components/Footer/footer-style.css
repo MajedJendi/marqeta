@@ -4,7 +4,7 @@
 }
 
 .css-1ah1pet-NavigationItem-root [class$=Link-root] {
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 14px;
     line-height: 1.42857;
     -webkit-text-decoration: none;
@@ -20,7 +20,7 @@
     -webkit-text-decoration: none;
     text-decoration: none;
     font-weight: 500;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     line-height: 1.625rem;
     color: #3C33B2;
@@ -49,7 +49,7 @@
     -webkit-text-decoration: none;
     text-decoration: none;
     font-weight: 500;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     line-height: 1.625rem;
     color: #3C33B2;
@@ -185,7 +185,7 @@
 
 .css-18owzqw-MuiTypography-root-NavigationItem-footerLink {
     margin: 0;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 16px;
     line-height: 1.625;
     font-weight: 400;
@@ -267,7 +267,7 @@
 }
 
 .css-1gxl2i-MuiInputBase-root-NavigationItem-footerLocaleInput {
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 16px;
     line-height: 1.4375em;
     font-weight: 400;
@@ -288,7 +288,7 @@
 }
 
 .css-1gxl2i-MuiInputBase-root-NavigationItem-footerLocaleInput [class$=MuiInputBase-input] {
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 14px;
     line-height: 2;
     background-color: #1C1441;
@@ -387,7 +387,7 @@
 
 .css-14o3lxf-MuiTypography-root {
     margin: 0;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 16px;
     line-height: 1.625;
     font-weight: 400;
@@ -497,7 +497,7 @@
 
 .css-15a0tfk-MuiTypography-root {
     margin: 0;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 16px;
     line-height: 1.625;
     font-weight: 400;

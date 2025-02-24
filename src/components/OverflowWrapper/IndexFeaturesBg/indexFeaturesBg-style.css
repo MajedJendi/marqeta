@@ -130,7 +130,7 @@ a {
 }
 
 .IndexFeatures-about p {
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     font-weight: 500;
     color: #2a206a;
     text-align: right;
@@ -243,7 +243,7 @@ a {
 }
 
 .IndexFeatures-list-title {
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     color: #2a206a;
     font-weight: 400;
     text-align: right;
@@ -339,7 +339,7 @@ a {
 }
 
 .IndexFeatures-list-description {
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     color: #4d4476;
     text-align: right;
 }

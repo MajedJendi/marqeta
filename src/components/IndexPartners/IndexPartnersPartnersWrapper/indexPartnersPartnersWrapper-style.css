@@ -314,7 +314,7 @@
     font-size: 40px;
     line-height: 1.35;
     letter-spacing: -0.7px;
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     font-weight: 400;
     color: #2a206a;
 }
@@ -366,7 +366,7 @@
     font-size: 18px;
     line-height: 1.66666667;
     letter-spacing: 0;
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     color: #4d4476;
     /* will-change: opacity, transform; */
     /* -webkit-transform: translateZ(0); */
@@ -517,7 +517,7 @@
     font-size: 18px;
     line-height: 1.44444444;
     letter-spacing: -0.41px;
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     color: #2a206a;
     font-weight: 500;
 }
@@ -580,7 +580,7 @@
     font-size: 22px;
     line-height: 1.81818182;
     letter-spacing: 0;
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     color: #2a206a;
     will-change: opacity, transform;
     -webkit-transform: translateZ(0);
@@ -702,7 +702,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0;
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     color: #68657f;
 }
 

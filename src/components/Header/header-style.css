@@ -173,7 +173,7 @@
     -webkit-text-decoration: none;
     text-decoration: none;
     font-weight: 500;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     line-height: 1.625rem;
     color: #3C33B2;
@@ -399,7 +399,7 @@
 }
 
 .css-1ah1pet-NavigationItem-root [class$=Link-root] {
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 14px;
     line-height: 1.42857;
     -webkit-text-decoration: none;
@@ -415,7 +415,7 @@
     -webkit-text-decoration: none;
     text-decoration: none;
     font-weight: 500;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     line-height: 1.625rem;
     color: #3C33B2;
@@ -444,7 +444,7 @@
     -webkit-text-decoration: none;
     text-decoration: none;
     font-weight: 500;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     line-height: 1.625rem;
     color: #3C33B2;
@@ -555,7 +555,7 @@
 
 .css-jtcti3-MuiTypography-root-NavigationItemGroupLabel-label {
     margin: 0;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 14px;
     line-height: 1.42857;
     color: #ABABAB;
@@ -1065,7 +1065,7 @@
 
 .css-1w8188n-MuiTypography-root-NavigationItemLink-summary {
     margin: 0;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 14px;
     line-height: 1.42857;
 }
@@ -1115,7 +1115,7 @@
 }
 
 .Header-actionsContainer .MuiLink-root {
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 14px;
     line-height: 1.42857;
     font-weight: 500;
@@ -1152,7 +1152,7 @@
     -webkit-text-decoration: none;
     text-decoration: none;
     font-weight: 500;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     line-height: 1.625rem;
     color: #3C33B2;
@@ -1173,7 +1173,7 @@
 }
 
 .css-ib1rxp-MuiTypography-root-MuiLink-root-Link-root.MuiLink-root {
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     line-height: 1.625rem;
     color: #2A206A;
@@ -1226,7 +1226,7 @@
     -webkit-text-decoration: none;
     text-decoration: none;
     color: inherit;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     line-height: 1rem;
     font-weight: 500;
@@ -1497,7 +1497,7 @@ a {
 
 /*! CSS Used fontfaces */
 @font-face {
-    font-family: 'Graphik';
+    font-family: "Almarai", serif;
     font-style: normal;
     font-display: swap;
     font-weight: 300;
@@ -1505,7 +1505,7 @@ a {
 }
 
 @font-face {
-    font-family: 'Graphik';
+    font-family: "Almarai", serif;
     font-style: normal;
     font-display: swap;
     font-weight: 400;
@@ -1513,7 +1513,7 @@ a {
 }
 
 @font-face {
-    font-family: 'Graphik';
+    font-family: "Almarai", serif;
     font-style: normal;
     font-display: swap;
     font-weight: 500;
@@ -1521,7 +1521,7 @@ a {
 }
 
 @font-face {
-    font-family: 'Graphik';
+    font-family: "Almarai", serif;
     font-style: normal;
     font-display: swap;
     font-weight: 600;

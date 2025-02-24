@@ -32,7 +32,7 @@
     -webkit-text-decoration: none;
     text-decoration: none;
     color: inherit;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     line-height: 1rem;
     font-weight: 500;
@@ -167,7 +167,7 @@
     appearance: none;
     -webkit-text-decoration: none;
     text-decoration: none;
-    font-family: Graphik, Arial, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 1rem;
     font-weight: 500;
     letter-spacing: 0.02857em;
@@ -610,7 +610,7 @@ a {
 
 .IndexHero-title {
     font-size: 50px;
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     color: #2a206a;
     letter-spacing: -0.62px;
     font-weight: 500;
@@ -689,7 +689,7 @@ a {
 
 .IndexHero-subtitle {
     margin-top: 14px;
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
     font-size: 18px;
     color: #4d4476;
     letter-spacing: 0;

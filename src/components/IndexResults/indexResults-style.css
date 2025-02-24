@@ -81,7 +81,7 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    font-family: Graphik, Helvetiva, sans-serif;
+    font-family: "Almarai", serif;
 }
 
 @media (min-width: 1440px) {
