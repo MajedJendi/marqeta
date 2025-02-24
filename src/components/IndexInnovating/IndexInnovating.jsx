@@ -5,6 +5,8 @@ import './indexInnovating-style.css';
 import cardShadow from '@assets/img/innovating/card-shadow.png';
 import footerPhone from '@assets/img/innovating/footer-phone.png';
 import { BackgroundSVG } from './BackgroundSVG';
+import { Link } from "react-router-dom";
+
 
 gsap.registerPlugin(ScrollTrigger);
 
