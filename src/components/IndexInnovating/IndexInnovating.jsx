@@ -79,9 +79,11 @@ export function IndexInnovating() {
                     <div className="IndexInnovating-description isSectionShown">
                         دعونا نتحدث عن متطلباتك وكيف يمكننا تقديم الحل الأمثل لك
                     </div>
-                    <a href="/contact-us" className="IndexInnovating-button isSectionShown">
-                        تواصل معنا الآن
-                    </a>
+
+                    <Link to="/contact-us" className="IndexInnovating-button isSectionShown">
+                        تواصلوا معنا الآن
+                    </Link>
+   
                 </div>
                 <div className="IndexInnovating-phoneWrapper">
                     <div className="IndexInnovating-card">
