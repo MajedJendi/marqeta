@@ -47,10 +47,10 @@ export function OverflowWrapper() {
         );
         gsap.fromTo(".IndexTailored",
             {
-                backgroundColor: '#2a206a00',
+                backgroundColor: '#1A1F7100',
             },
             {
-                backgroundColor: '#2a206a',
+                backgroundColor: '#1A1F71',
                 duration: 1,
                 scrollTrigger: {
                     trigger: ".IndexTailored",

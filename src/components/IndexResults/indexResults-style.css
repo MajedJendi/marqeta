@@ -64,8 +64,8 @@
 }
 
 .IndexResults {
-    background: -webkit-gradient(linear, left top, left bottom, from(#2a206a), color-stop(38%, #2a206a), color-stop(70%, #443794), to(#443794));
-    background: linear-gradient(180deg, #2a206a, #2a206a 38%, #443794 70%, #443794);
+    background: -webkit-gradient(linear, left top, left bottom, from(#1A1F71), color-stop(38%, #1A1F71), color-stop(70%, #443794), to(#443794));
+    background: linear-gradient(180deg, #1A1F71, #1A1F71 38%, #443794 70%, #443794);
 }
 
 @media (max-width: 367px),

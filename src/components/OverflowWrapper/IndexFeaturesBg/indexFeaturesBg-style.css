@@ -132,7 +132,7 @@ a {
 .IndexFeatures-about p {
     font-family: "Almarai", serif;
     font-weight: 500;
-    color: #2a206a;
+    color: #1A1F71;
     text-align: right;
 }
 
@@ -244,7 +244,7 @@ a {
 
 .IndexFeatures-list-title {
     font-family: "Almarai", serif;
-    color: #2a206a;
+    color: #1A1F71;
     font-weight: 400;
     text-align: right;
 }
@@ -340,7 +340,7 @@ a {
 
 .IndexFeatures-list-description {
     font-family: "Almarai", serif;
-    color: #4d4476;
+    color: #1A1F71;
     text-align: right;
 }
 
@@ -434,6 +434,6 @@ a {
 }
 
 .homepage-hyperlink {
-    color: #2a206a;
+    color: #1A1F71;
     text-decoration: underline;
 }

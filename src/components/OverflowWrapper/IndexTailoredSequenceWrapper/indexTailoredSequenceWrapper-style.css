@@ -85,10 +85,10 @@ section.IndexTailoredGreenSvg {
     min-height: 100vh;
     opacity: 1;
     padding-top: calc(41.91vh + -311px);
-    -webkit-mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(13%, #2a206a), color-stop(70%, #2a206a), to(rgba(0, 0, 0, 0)));
-    -webkit-mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, #2a206a 13%, #2a206a 70%, rgba(0, 0, 0, 0));
-    mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(13%, #2a206a), color-stop(70%, #2a206a), to(rgba(0, 0, 0, 0)));
-    mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, #2a206a 13%, #2a206a 70%, rgba(0, 0, 0, 0));
+    -webkit-mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(13%, #1A1F71), color-stop(70%, #1A1F71), to(rgba(0, 0, 0, 0)));
+    -webkit-mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, #1A1F71 13%, #1A1F71 70%, rgba(0, 0, 0, 0));
+    mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(13%, #1A1F71), color-stop(70%, #1A1F71), to(rgba(0, 0, 0, 0)));
+    mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, #1A1F71 13%, #1A1F71 70%, rgba(0, 0, 0, 0));
 }
 
 @media (min-height: 1100px) {
@@ -150,10 +150,10 @@ section.IndexTailoredGreenSvg {
         left: 50%;
         margin-left: -173px;
         height: 100%;
-        -webkit-mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(13%, #2a206a), color-stop(70%, #2a206a), to(rgba(0, 0, 0, 0)));
-        -webkit-mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, #2a206a 13%, #2a206a 70%, rgba(0, 0, 0, 0));
-        mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(13%, #2a206a), color-stop(70%, #2a206a), to(rgba(0, 0, 0, 0)));
-        mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, #2a206a 13%, #2a206a 70%, rgba(0, 0, 0, 0));
+        -webkit-mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(13%, #1A1F71), color-stop(70%, #1A1F71), to(rgba(0, 0, 0, 0)));
+        -webkit-mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, #1A1F71 13%, #1A1F71 70%, rgba(0, 0, 0, 0));
+        mask-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), color-stop(13%, #1A1F71), color-stop(70%, #1A1F71), to(rgba(0, 0, 0, 0)));
+        mask-image: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, #1A1F71 13%, #1A1F71 70%, rgba(0, 0, 0, 0));
     }
 }
 
@@ -161,10 +161,10 @@ section.IndexTailoredGreenSvg {
     position: absolute;
     width: 100%;
     opacity: 0;
-    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(30%, #2a206a), color-stop(70%, #2a206a), to(rgba(0, 0, 0, 0)));
-    -webkit-mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 0, #2a206a 30%, #2a206a 70%, rgba(0, 0, 0, 0));
-    mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(30%, #2a206a), color-stop(70%, #2a206a), to(rgba(0, 0, 0, 0)));
-    mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 0, #2a206a 30%, #2a206a 70%, rgba(0, 0, 0, 0));
+    -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(30%, #1A1F71), color-stop(70%, #1A1F71), to(rgba(0, 0, 0, 0)));
+    -webkit-mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 0, #1A1F71 30%, #1A1F71 70%, rgba(0, 0, 0, 0));
+    mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), color-stop(30%, #1A1F71), color-stop(70%, #1A1F71), to(rgba(0, 0, 0, 0)));
+    mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0) 0, #1A1F71 30%, #1A1F71 70%, rgba(0, 0, 0, 0));
 }
 
 /*! CSS Used keyframes */

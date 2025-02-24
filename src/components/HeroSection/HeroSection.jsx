@@ -123,7 +123,7 @@ export function HeroSection() {
                         delay: 2,
                         y: i * -1 * vsOpts.lineHeight,
                         ease: 'power4.inOut',
-                        color: i === vsOpts.list.children.length - 1 ? '#2a206a' : '#20a472',
+                        color: i === vsOpts.list.children.length - 1 ? '#1A1F71' : '#20a472',
                         transition: i === vsOpts.list.children.length - 1 ? 'color 2s' : 'none',
                     },
                     label

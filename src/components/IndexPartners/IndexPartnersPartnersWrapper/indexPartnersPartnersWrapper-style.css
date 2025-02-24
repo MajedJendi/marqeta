@@ -316,7 +316,7 @@
     letter-spacing: -0.7px;
     font-family: "Almarai", serif;
     font-weight: 400;
-    color: #2a206a;
+    color: #1A1F71;
 }
 
 @media (min-width: 1024px) and (max-width: 1439px) {
@@ -367,7 +367,7 @@
     line-height: 1.66666667;
     letter-spacing: 0;
     font-family: "Almarai", serif;
-    color: #4d4476;
+    color: #1A1F71;
     /* will-change: opacity, transform; */
     /* -webkit-transform: translateZ(0); */
     /* transform: translateZ(0); */
@@ -518,7 +518,7 @@
     line-height: 1.44444444;
     letter-spacing: -0.41px;
     font-family: "Almarai", serif;
-    color: #2a206a;
+    color: #1A1F71;
     font-weight: 500;
 }
 
@@ -581,7 +581,7 @@
     line-height: 1.81818182;
     letter-spacing: 0;
     font-family: "Almarai", serif;
-    color: #2a206a;
+    color: #1A1F71;
     will-change: opacity, transform;
     -webkit-transform: translateZ(0);
     transform: translateZ(0);

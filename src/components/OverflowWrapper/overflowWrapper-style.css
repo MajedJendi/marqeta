@@ -108,7 +108,7 @@ section {
 .IndexPurpleCard-cardItem_2 {
     opacity: 0;
     will-change: opacity;
-    background-color: #2a206a;
+    background-color: #1A1F71;
     z-index: 10;
 }
 
@@ -131,7 +131,7 @@ section {
 }
 
 .IndexTailored {
-    /* background-color: #2a206a00; */
+    /* background-color: #1A1F7100; */
     position: relative;
     pointer-events: none;
     z-index: 12;
@@ -144,8 +144,8 @@ section {
 @media (max-width: 367px),
 (min-width: 368px) and (max-width: 767px) {
     .IndexTailored {
-        background-image: -webkit-gradient(linear, left top, left bottom, color-stop(82%, #2a206a), to(#332878));
-        background-image: linear-gradient(180deg, #2a206a 82%, #332878);
+        background-image: -webkit-gradient(linear, left top, left bottom, color-stop(82%, #1A1F71), to(#332878));
+        background-image: linear-gradient(180deg, #1A1F71 82%, #332878);
     }
 }
 
