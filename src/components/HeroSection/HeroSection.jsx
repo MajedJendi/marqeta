@@ -211,16 +211,7 @@ export function HeroSection() {
 
                 {/* Logos */}
                 <div className="IndexHero-logos">
-                    {
-                        IndexHeroLogo.map((item, index) => {
-                            const { dataSrc, alt, src } = item;
-                            return (
-                                <div key={index} className="IndexHero-logo isImmediateShow isSectionShown">
-                                    <img data-lazy="true" data-src={dataSrc} alt={alt} src={src} />
-                                </div>
-                            )
-                        })
-                    }
+
                 </div>
             </div>
 
