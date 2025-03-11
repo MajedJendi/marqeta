@@ -3,7 +3,6 @@ import './PrivacyPolicy.css';
 import { Loader, Header, Footer } from '@/components';
 import { EmbedPDF } from '@simplepdf/react-embed-pdf';
 
-
 function PrivacyPolicy() {
 
    return (
@@ -23,14 +22,16 @@ function PrivacyPolicy() {
                {/* Lazy-loaded components wrapped in Suspense with a fallback */}
                <Suspense fallback={<Loader />}>
 
-                <EmbedPDF
-                  companyIdentifier="react-viewer"
-                  mode="inline"
-                  style={{ width: 900, height: 800 }}
-                  documentURL="https://cdn.simplepdf.com/simple-pdf/assets/sample.pdf"
-                />;
-
-               </Suspense>
+                <div className="row justify-content-center">
+                  <EmbedPDF
+                    companyIdentifier="react-viewer"
+                    mode="inline"
+                    style={{ width: 900, height: 800 }}
+                    documentURL="./src/Pages/PrivacyPolicy.pdf"
+                  />
+                </div>
+           
+              </Suspense>
 
              </div>
            </div>
