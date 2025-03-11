@@ -6,6 +6,7 @@ import { NavigationDesktop } from './NavigationDesktop';
 import { NavigationMobile } from './NavigationMobile';
 import { LocalSwitcherDesktop } from './LocalSwitcherDesktop';
 import { LocalSwitcherMobile } from './LocalSwitcherMobile';
+import { Link } from "react-router-dom";
 
 export function Footer() {
     const [isDesktop, setDesktop] = useState(window.innerWidth > LaptopBreakPoint - 100);
@@ -26,8 +27,9 @@ export function Footer() {
                         <p className="MuiTypography-root MuiTypography-body1 css-15a0tfk-MuiTypography-root">
                             © 2025 Rezma, Inc. جميع الحقوق محفوظة شركة رزمه 2025
                         </p>
-                        <hr>
-                        </hr>
+
+                        <hr />
+                        
                         <p>
                         (ذ.م.م)  شركة رزمة الأعمال لتقنية المعلومات 
                         </p>
@@ -37,6 +39,29 @@ export function Footer() {
                         <p>
                             حي قرطبة، الرياض، المملكة العربية السعودية
                         </p>
+
+                        <hr />
+
+                        <div className="row justify-content-center">
+                            <div className='col'>
+                                <Link to="/privacy-policy">
+                                    سياسة الخصوصية  
+                                </Link>
+                            </div>
+
+                            <div className='col'>
+                                <Link to="/terms-and-conditions">
+                                    الشروط و الأحكام    
+                                </Link>
+                            </div>
+
+                            <div className='col'>
+                                <Link to="/consumer-protection">
+                                    حماية العملاء
+                                </Link>
+                            </div>
+                        </div>
+                        
 
                     </div>
                     <div className="MuiBox-root css-fx6pik-Footer-socialWrapper">

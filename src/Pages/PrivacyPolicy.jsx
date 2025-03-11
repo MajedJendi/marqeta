@@ -1,5 +1,4 @@
 import { Suspense, lazy } from 'react';
-import './PrivacyPolicy.css';
 import { Loader, Header, Footer } from '@/components';
 import { EmbedPDF } from '@simplepdf/react-embed-pdf';
 

@@ -1,8 +1,9 @@
 import { Suspense, lazy } from 'react';
 import { Loader, Header, Footer } from '@/components';
-const ContactForm = lazy(() => import('@components/ContactForm'));
+import { EmbedPDF } from '@simplepdf/react-embed-pdf';
 
-function ContactUs() {
+function TermsConditions() {
+
    return (
      <>
        {/* Render the header component */}
@@ -19,10 +20,18 @@ function ContactUs() {
                
                {/* Lazy-loaded components wrapped in Suspense with a fallback */}
                <Suspense fallback={<Loader />}>
-               
-                  <ContactForm/>
-               
-               </Suspense>
+
+                <div className="row justify-content-center">
+                  <EmbedPDF
+                    companyIdentifier="react-viewer"
+                    mode="inline"
+                    style={{ width: 900, height: 800 }}
+                    documentURL="./src/Pages/TermsConditions.pdf"
+                  />
+                </div>
+           
+              </Suspense>
+
              </div>
            </div>
          </div>
@@ -37,4 +46,4 @@ function ContactUs() {
    )
 }
 
-export default ContactUs
+export default TermsConditions
