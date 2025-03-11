@@ -74,21 +74,21 @@ export function Footer() {
 
                 <hr />
 
-                <div className="row justify-content-center">
+                <div className="row justify-content-center" >
                     <div className='col'>
-                        <Link to="/privacy-policy">
+                        <Link to="/privacy-policy" className='text-white text-decoration-underline'>
                             سياسة الخصوصية  
                         </Link>
                     </div>
 
                     <div className='col'>
-                        <Link to="/terms-and-conditions">
+                        <Link to="/terms-and-conditions" className='text-white text-decoration-underline'>
                             الشروط و الأحكام    
                         </Link>
                     </div>
 
                     <div className='col'>
-                        <Link to="/consumer-protection">
+                        <Link to="/consumer-protection" className='text-white text-decoration-underline'>
                             حماية العملاء
                         </Link>
                     </div>
