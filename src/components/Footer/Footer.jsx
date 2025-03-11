@@ -40,27 +40,7 @@ export function Footer() {
                             حي قرطبة، الرياض، المملكة العربية السعودية
                         </p>
 
-                        <hr />
 
-                        <div className="row justify-content-center">
-                            <div className='col'>
-                                <Link to="/privacy-policy">
-                                    سياسة الخصوصية  
-                                </Link>
-                            </div>
-
-                            <div className='col'>
-                                <Link to="/terms-and-conditions">
-                                    الشروط و الأحكام    
-                                </Link>
-                            </div>
-
-                            <div className='col'>
-                                <Link to="/consumer-protection">
-                                    حماية العملاء
-                                </Link>
-                            </div>
-                        </div>
                         
 
                     </div>
@@ -91,7 +71,31 @@ export function Footer() {
                         }
                     </div>
                 </div>
+
+                <hr />
+
+                <div className="row justify-content-center">
+                    <div className='col'>
+                        <Link to="/privacy-policy">
+                            سياسة الخصوصية  
+                        </Link>
+                    </div>
+
+                    <div className='col'>
+                        <Link to="/terms-and-conditions">
+                            الشروط و الأحكام    
+                        </Link>
+                    </div>
+
+                    <div className='col'>
+                        <Link to="/consumer-protection">
+                            حماية العملاء
+                        </Link>
+                    </div>
+                </div>
+
             </div>
+
         </footer>
     )
 }
