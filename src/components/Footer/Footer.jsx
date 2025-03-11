@@ -26,6 +26,18 @@ export function Footer() {
                         <p className="MuiTypography-root MuiTypography-body1 css-15a0tfk-MuiTypography-root">
                             © 2025 Rezma, Inc. جميع الحقوق محفوظة شركة رزمه 2025
                         </p>
+                        <hr>
+                        </hr>
+                        <p>
+                        (ذ.م.م)  شركة رزمة الأعمال لتقنية المعلومات 
+                        </p>
+                        <p>
+                            رقم السجل التجاري: 1009207838
+                        </p>
+                        <p>
+                            حي قرطبة، الرياض، المملكة العربية السعودية
+                        </p>
+
                     </div>
                     <div className="MuiBox-root css-fx6pik-Footer-socialWrapper">
                         {
