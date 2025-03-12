@@ -26,7 +26,7 @@ function PrivacyPolicy() {
                     companyIdentifier="react-viewer"
                     mode="inline"
                     style={{ width: 900, height: 800 }}
-                    documentURL="/src/Pages/PrivacyPolicy.pdf"
+                    documentURL="/PrivacyPolicy.pdf"
                   />
                 </div>
            
