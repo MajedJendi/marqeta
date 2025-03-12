@@ -26,7 +26,7 @@ function PrivacyPolicy() {
                     companyIdentifier="react-viewer"
                     mode="inline"
                     style={{ width: 900, height: 800 }}
-                    documentURL="https://cdn.simplepdf.com/simple-pdf/assets/sample.pdf"
+                    documentURL="/src/Pages/PrivacyPolicy.pdf"
                   />
                 </div>
            
