@@ -122,6 +122,23 @@ export function ContactForm() {
                         </div>
                         <br/>
 
+
+                        <div className="row row-space">
+                          <div className="col">
+                           
+                          </div>
+                          <div className="col-12">
+   
+                            <input  class="form-check-input" style={{textAlign:"right"}} type="checkbox" value="" name="Consent" required/>
+                              <label class="form-check-label" style={{textAlign:"right"}}>
+                                أوافق على الشروط والأحكام المتعلقة بتقديم الخدمة وسياسة الخصوصية وتلقي الرسائل النصية والبريد الإلكتروني وجميع السياسات من أجل الحصول على الخدمة
+                              </label>
+                          </div>
+                        </div>
+
+                        <br/>
+
+
                         <div className="row justify-content-center mb-2">
                             <button className="btn btn-primary" type="submit">ارسل</button>
                         </div>                
@@ -200,6 +217,22 @@ export function ContactForm() {
                             </div>
                           <br/>
                           </div>
+                          <br/>
+
+
+                          <div className="row row-space">
+                            <div className="col">
+                            
+                            </div>
+                            <div className="col-12">
+    
+                              <input  class="form-check-input" style={{textAlign:"right"}} type="checkbox" value="" name="Consent" required/>
+                                <label class="form-check-label" style={{textAlign:"right"}}>
+                                  أوافق على الشروط والأحكام المتعلقة بتقديم الخدمة وسياسة الخصوصية وتلقي الرسائل النصية والبريد الإلكتروني وجميع السياسات من أجل الحصول على الخدمة
+                                </label>
+                            </div>
+                          </div>
+
                           <br/>
 
                           <div className="row justify-content-center mb-2">
