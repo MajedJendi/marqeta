@@ -26,7 +26,7 @@ function PrivacyPolicy() {
                     companyIdentifier="react-viewer"
                     mode="inline"
                     style={{ width: 900, height: 800 }}
-                    documentURL="https://github.com/MajedJendi/marqeta/blob/c4e62de3fac0170d68e2e0919cd1363d409747bf/src/Pages/PrivacyPolicy.pdf"
+                    documentURL="https://cdn.simplepdf.com/simple-pdf/assets/sample.pdf"
                   />
                 </div>
            
