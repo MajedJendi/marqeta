@@ -21,12 +21,14 @@ function TermsConditions() {
                {/* Lazy-loaded components wrapped in Suspense with a fallback */}
                <Suspense fallback={<Loader />}>
 
+
+
                 <div className="row justify-content-center">
                   <EmbedPDF
                     companyIdentifier="react-viewer"
                     mode="inline"
                     style={{ width: 900, height: 800 }}
-                    documentURL="./src/Pages/TermsConditions.pdf"
+                    documentURL="/TermsConditions.pdf"
                   />
                 </div>
            

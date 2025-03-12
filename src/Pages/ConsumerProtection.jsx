@@ -26,7 +26,7 @@ function ConsumerProtection() {
                     companyIdentifier="react-viewer"
                     mode="inline"
                     style={{ width: 900, height: 800 }}
-                    documentURL="./src/Pages/ConsumerProtection.pdf"
+                    documentURL="/ConsumerProtection.pdf"
                   />
                 </div>
            
