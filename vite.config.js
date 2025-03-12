@@ -16,4 +16,7 @@ export default defineConfig({
     },
   },
   assetsInclude: ['**/*.lottie'],
+  server: {
+    historyApiFallback: true, // Fixes direct URL access issue
+  },
 })
