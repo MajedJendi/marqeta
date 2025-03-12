@@ -10,6 +10,7 @@ const LazyIndexInnovating = lazy(() => import('@components/IndexInnovating'));
 const LazyPageIndexCaption = lazy(() => import('@components/PageIndexCaption'));
 
 function App() {
+
   return (
     <>
       {/* Render the header component */}

@@ -1,8 +1,22 @@
 import { Suspense, lazy } from 'react';
 import { Loader, Header, Footer } from '@/components';
 import { EmbedPDF } from '@simplepdf/react-embed-pdf';
+import React, { useState } from 'react';
+
+import { Document, Page, pdfjs } from 'react-pdf';
+
 
 function PrivacyPolicy() {
+
+  const [numPages, setNumPages] = useState(null);
+  const [pageNumber, setPageNumber] = useState(1);
+
+  function onDocumentLoadSuccess({ numPages }) {
+    setNumPages(numPages);
+  }
+  pdfjs.GlobalWorkerOptions.workerSrc = `//unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`;
+
+
 
    return (
      <>
@@ -22,15 +36,46 @@ function PrivacyPolicy() {
                <Suspense fallback={<Loader />}>
 
                 <div className="row justify-content-center">
-                  <EmbedPDF
-                    companyIdentifier="react-viewer"
-                    mode="inline"
-                    style={{ width: 900, height: 800 }}
-                    documentURL="/PrivacyPolicy.pdf"
-                  />
-                </div>
+        
+                  <Document file= "./src/Pages/PrivacyPolicy.pdf" onLoadSuccess={onDocumentLoadSuccess}>
+                  <Page pageNumber={pageNumber} />
+                  </Document>
+                  <div>
+                    <p>
+                      Page {pageNumber} of {numPages}
+                    </p>
+                    <button
+                      type="button"
+                      disabled={pageNumber <= 1}
+                      onClick={() => setPageNumber(pageNumber - 1)}
+                    >
+                      Previous
+                    </button>
+                    <button
+                      type="button"
+                      disabled={pageNumber >= numPages}
+                      onClick={() => setPageNumber(pageNumber + 1)}
+                    >
+                      Next
+                    </button>
+                  </div>
+
+
+
+                </div> 
            
               </Suspense>
+
+
+
+    
+
+ 
+
+
+
+
+
 
              </div>
            </div>
